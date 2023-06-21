@@ -15,7 +15,7 @@ Please cite the repository if you use the data or code in this repository.
 ```
 @misc{UNESCO_chatgpt,
   author = {송은정},
-  title = {ChatGPT and Artificial Intelligence in Higher Education - Quick Start},
+  title = {ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
