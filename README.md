@@ -6,6 +6,7 @@
 - 번역자: 송은정
 
 ## Download
+- ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본
 
 ## Update Logs
 - 2023-06-21: 한국어 번역본 공개
