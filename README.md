@@ -16,7 +16,7 @@
 - 출처: UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).   
 - Please cite the repository if you use the data or code in this repository.
 ```
-@misc{RaeSong,
+@misc{UNESCO_chatgpt,
   author = {송은정},
   title = {ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본},
   year = {2023},
