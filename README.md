@@ -3,7 +3,7 @@
 - UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).
 
 ## 소개
-- 본 자료는 유네스코의 발행물 'ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide'를 한국어로 번역했습니다.
+- 본 자료는 유네스코의 발행물 '[ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide](https://unesdoc.unesco.org/ark:/48223/pf0000385146)'를 한국어로 번역했습니다.
 - 본 한국어 번역본은 유네스코의 공식 발행물이 아닙니다.
 - 한국의 교육 생태계가 ChatGPT를 안전하게 활용하는 것에 기여하고자 하였습니다.
 - 오역이나 오타 발견 시 [페이스북 메신저](https://www.facebook.com/songej)로 알려주시면 즉시 반영하겠습니다.
