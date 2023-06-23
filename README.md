@@ -1,6 +1,6 @@
-### ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본
+### 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드
 ## 다운로드
-- ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본
+- UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).
 
 ## 소개
 - 본 자료는 유네스코의 발행물 'ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide'를 한국어로 번역했습니다.
