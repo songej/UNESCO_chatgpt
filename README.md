@@ -2,8 +2,8 @@
 - 본 자료는 유네스코의 발행물 'ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide'를 한국어로 번역했습니다.
 - 본 한국어 번역본은 유네스코의 공식 발행물이 아닙니다.
 - 한국 교육 생태계가 ChatGPT를 안전하고 유용하게 활용하는 것에 기여하고자 하였습니다.
-- 오역이나 오타 발견 시 [페이스북 메신저](https://www.facebook.com/songej, "송은정 페이스북")로 알려주시면 즉시 반영하겠습니다.
-- 번역자: [송은정](https://songej.com, "송은정 홈페이지")
+- 오역이나 오타 발견 시 [페이스북 메신저](https://www.facebook.com/songej)로 알려주시면 즉시 반영하겠습니다.
+- 번역자: [송은정](https://songej.com)
 
 ## 다운로드
 - ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide 한국어 번역본
