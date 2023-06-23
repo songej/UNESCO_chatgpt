@@ -12,7 +12,7 @@
 - 2023-06-21: 한국어 번역본 공개
 
 ## 인용
-- 출처: UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역). UNESCO. (2023).   
+- 출처: UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).   
 - Please cite the repository if you use the data or code in this repository.
 ```
 @misc{UNESCO_chatgpt,
