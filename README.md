@@ -1,6 +1,6 @@
-### 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드
+### 고등교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드
 ## 다운로드
-- [UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).](https://github.com/songej/UNESCO_chatgpt/blob/main/docs/UNESCO.%20(2023).%20%EA%B3%A0%EB%93%B1%20%EA%B5%90%EC%9C%A1%EC%97%90%EC%84%9C%20ChatGPT%EC%99%80%20AI%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B9%A0%EB%A5%B8%20%EC%8B%9C%EC%9E%91%20%EA%B0%80%EC%9D%B4%EB%93%9C.%20(%EC%86%A1%EC%9D%80%EC%A0%95%20%EC%97%AD)..pdf?raw=True)
+- [UNESCO. (2023). 고등교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).](https://github.com/songej/UNESCO_chatgpt/blob/main/docs/UNESCO.%20(2023).%20%EA%B3%A0%EB%93%B1%20%EA%B5%90%EC%9C%A1%EC%97%90%EC%84%9C%20ChatGPT%EC%99%80%20AI%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B9%A0%EB%A5%B8%20%EC%8B%9C%EC%9E%91%20%EA%B0%80%EC%9D%B4%EB%93%9C.%20(%EC%86%A1%EC%9D%80%EC%A0%95%20%EC%97%AD)..pdf?raw=True)
 
 ## 소개
 - 본 자료는 유네스코의 '[ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide](https://unesdoc.unesco.org/ark:/48223/pf0000385146)'를 한국어로 번역했습니다.
@@ -13,7 +13,7 @@
 - 2023-06-23: 한국어 번역본 공개
 
 ## 인용
-- 출처: UNESCO. (2023). 고등 교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. (송은정 역).   
+- 출처: UNESCO. (2023). ChatGPT and Artificial Intelligence in Higher Education - Quick Start Guide. 송은정 역. (2023). 고등교육에서 ChatGPT와 AI에 대한 빠른 시작 가이드. Paris: UNESCO.
 - Please cite the repository if you use the data or code in this repository.
 ```
 @misc{UNESCO_chatgpt,
